@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 30 days and a state-wide market scope. \n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Ohio, US",
+  "export_job_id": "d667617c-cebd-4f74-92ab-9da0a60b3087",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 593551,
+  "location_name": "Ohio",
+  "location_type": "state",
+  "repo_name": "top-30-active-restaurant-review-whales-in-ohio-us-sample-593551",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/593551/beamstation_593551_restaurants-us-oh_SAMPLE_DIST.csv",
+  "sample_pct": 0.57,
+  "sample_records": 10,
+  "sample_sha256": "0be447c405708f9d95c42f754a8b9732224f3fac260175616e98f610569d83f0",
+  "sample_size_bytes": 58073,
+  "total_records": 1741,
+  "updated_at": "2026-03-31T23:15:29.040903+00:00"
+}
