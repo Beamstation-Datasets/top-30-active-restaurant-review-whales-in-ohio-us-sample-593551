@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Ohio, US
 
-> Free BeamStation sample export with 101 rows and masked direct-contact fields.
+> Free BeamStation sample export with 22 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `593551` |
 | Location | Ohio |
 | Category | Restaurants |
-| Full dataset size | 1,016 records |
-| Free sample size | 101 records (9.94%) |
-| Last export | 2026-04-22T05:04:32.768425+00:00 |
+| Full dataset size | 224 records |
+| Free sample size | 22 records (9.82%) |
+| Last export | 2026-04-29T07:21:31.277137+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-ohio-us-sample-593551/releases/download/sample-latest/beamstation_593551_restaurants-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
